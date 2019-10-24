@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="583px" height="331px" viewBox="0 0 583 331" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 52.5 (67469) - http://www.bohemiancoding.com/sketch -->
+    <title>07B8F24A-9FEE-4C55-AF83-DE7C7516AD2B</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="583" height="331"></rect>
+    </defs>
+    <g id="Membership" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="SCTE_DTPWEB-Membership-Card" transform="translate(-412.000000, -525.000000)">
+            <g id="Rectangle-+-Path-11-+-Path-10-Mask" transform="translate(412.000000, 525.000000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <use id="Mask" fill="#323B52" xlink:href="#path-1"></use>
+                <polygon id="Rectangle" fill="#1F2537" mask="url(#mask-2)" points="2 0 266.330357 0 575 331 2 331"></polygon>
+                <polygon id="Path-11" fill="#00AEEF" mask="url(#mask-2)" points="351 -5 351 37.65796 377 57 377 -5"></polygon>
+                <polygon id="Path-10" fill="#1F2537" mask="url(#mask-2)" points="366 -5 366 75.3183308 565.485175 292 595 292 595 -5"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>
